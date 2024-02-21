@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Olá! Meu nome é Leticia e eu sou professora de ADS.
+          Olá! Meu nome é Letícia e eu sou professora de ADS.
         </p>
         Esse é meu primeiro comit GitHub.
         <a
